@@ -6,9 +6,6 @@ main()
     printf("Hello World Bis ! \n");
     printf("Hello World Tres ! \n");
     printf("Hello World fourth ! \n");
-<<<<<<< HEAD
     printf("Hello World fifth local ! \n");
-=======
     printf("Hello World fifth remote ! \n");
->>>>>>> upstream/master
 }
